@@ -21,7 +21,8 @@ class Socket {
                 case "approveDenyMovement" :
                         if (data.payload.approved == true) {
                             const ruler = canvas.controls.ruler;
-                            let moved = ruler.moveToken(data.payload.event);
+                            // let moved = ruler.moveToken(data.payload.event);
+                            let moved = ruler.moveToken();
                             // if ( moved ) data.payload.event.preventDefault();
                         }
                     break;

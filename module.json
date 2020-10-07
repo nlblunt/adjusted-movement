@@ -2,18 +2,18 @@
     "name": "adjusted-movement-2",
     "title": "Adjusted Movement-2",
     "description": "Provides various restrictions for user token movement",
-    "version": "0.1.3",
-    "author": "Eadorin",
+    "version": "0.1.5",
+    "author": "Eadorin / Nicolas",
     "esmodules": ["adjusted-movement.js"],
-    "compatibleCoreVersion": "0.6.3",
+    "compatibleCoreVersion": "0.7.3",
     "minimumCoreVersion": "0.6.0",
-    "manifest": "https://raw.githubusercontent.com/eadorin/adjusted-movement/master/module.json",
+    "manifest": "https://raw.githubusercontent.com/nlblunt/adjusted-movement/master/module.json",
     "download": "https://github.com/nlblunt/adjusted-movement/archive/master.zip",
-    "url": "https://github.com/eadorin/adjusted-movement",
+    "url": "https://github.com/nlblunt/adjusted-movement",
     "languages": [
       { "lang": "en", "name": "English", "path": "lang/en.json" }
     ],
-    "changelog": "https:github.com/eadorin/adjusted-movement/blob/v0.1.0/changelog.md",
+    "changelog": "https:github.com/nlblunt/adjusted-movement/blob/master/changelog.md",
     "socket": true
   }
   
